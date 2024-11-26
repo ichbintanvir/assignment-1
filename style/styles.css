@@ -1,0 +1,12 @@
+.card_background_color{
+    background: rgba(15, 15, 15, 0.05);
+}
+.footer_hr{
+    border: 1px solid rgba(233, 233, 233, 1)
+}
+.footer_background_color{
+    background: rgba(242, 244, 246, 1);
+}
+.custome_border{
+    border: 1px solid rgba(233, 233, 233, 1)
+}
